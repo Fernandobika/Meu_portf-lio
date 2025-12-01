@@ -37,3 +37,7 @@ body.dark-mode {
     border-radius: 150px;
 }
 
+input[type="text"], textarea {
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
