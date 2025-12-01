@@ -34,6 +34,6 @@ body.dark-mode {
     display: flex;
     background-color: rgb( 44, 62, 80);
     color: #fff;
-    border-none: 150px;
+    border-radius: 150px;
 }
 
